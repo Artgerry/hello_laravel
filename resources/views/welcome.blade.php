@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel 5</div>
+                <div class="title">I Love You 姚燕云</div>
             </div>
         </div>
     </body>
