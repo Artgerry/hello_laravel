@@ -33,4 +33,4 @@ if (file_exists($compiledPath)) {
     require $compiledPath;
 }
 
-require __DIR__.'helpers.php';
+require __DIR__.'/helpers.php';
